@@ -3,7 +3,7 @@
 ## 📌 Objective
 Analyze telecom customer data to identify key factors driving customer churn and derive actionable business insights.
 
----
+
 
 ## 🔍 Key Correlations
 Top features most positively correlated with churn:
@@ -12,7 +12,7 @@ Top features most positively correlated with churn:
 - **MonthlyCharges** (~+0.19)
 - **PaperlessBilling** (~+0.19)
 
----
+
 
 ## 🔀 Feature Interaction Insights
 
@@ -24,7 +24,7 @@ Top features most positively correlated with churn:
 - Customers using fiber optic and paying via electronic check churn at **53%**, the highest among all groups.
 - 📌 *A mismatch between modern service and outdated payment may cause dissatisfaction.*
 
----
+
 
 ## ✅ Business Recommendations
 | Focus Area | Recommendation |
@@ -33,7 +33,7 @@ Top features most positively correlated with churn:
 | Fiber optic + manual payers | Promote digital/auto payment options |
 | Electronic check users | Encourage transition to modern billing methods |
 
----
+
 
 ## 📁 Files
 - `Customer Churn.csv` — dataset
